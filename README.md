@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+Xing's+AI+Playground;AI+Automation+%7C+No-Code+Hacking+%7C+Open+Collab&center=true&width=600" />
+</p>
+
 ## 🚀 AI Tools Power User & Zero-Code Hacker
 
 <p align="left">
@@ -62,6 +66,10 @@ Automates the crawling of stock-related news and media, analyzes information via
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xingOct21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingOct21&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xingOct21&theme=github-compact" alt="activity graph"/>
 </p>
 
 <p align="center"><i>Stay tuned for more open source and AI projects coming soon...</i></p>
