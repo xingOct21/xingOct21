@@ -76,6 +76,14 @@ Automates the crawling of stock-related news and media, analyzes information via
 
 ---
 
+## 📫 Contact & Links
+
+- 🌐 Personal Homepage: [xingoct21.github.io/MYHP/](https://xingoct21.github.io/MYHP/)
+- 📦 Featured Project: [StockRadar–Release](https://github.com/xingOct21/StockRadar--Release)
+- 🏢 GitHub: [xingOct21](https://github.com/xingOct21)
+
+---
+
 #### 💬 Motto
 
 > I don't chase code, I orchestrate ideas with AI.
