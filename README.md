@@ -61,18 +61,9 @@ Automates the crawling of stock-related news and media, analyzes information via
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xingOct21&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xingOct21&layout=compact&theme=tokyonight"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xingOct21&theme=github-compact" alt="activity graph"/>
 </p>
-
-<p align="center"><i>Stay tuned for more open source and AI projects coming soon...</i></p>
 
 ---
 
