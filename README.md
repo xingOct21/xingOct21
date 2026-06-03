@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion" />
   <img src="https://img.shields.io/badge/Open%20Source-passion-4bc0f8" />
   <img src="https://img.shields.io/badge/Zero%20Code-Automation-blueviolet" />
-  <img src="https://img.shields.io/badge/Vibe%20Coding-All-in" />
+  <img src="https://img.shields.io/badge/Vibe%20Coding-All--in-blueviolet" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ Automates the crawling of stock-related news and media, analyzes information via
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xingOct21&theme=github-compact" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xingOct21&theme=github-compact" alt="activity graph"/>
 </p>
 
 <p align="center"><i>Stay tuned for more open source and AI projects coming soon...</i></p>
